@@ -1,0 +1,21 @@
+
+# Windows
+  $RECYCLE.BIN/
+  Desktop.ini
+  *.db
+  *.autosave
+
+
+  # Edytory
+  .idea/
+  .settings/
+  .project
+  nbproject/
+  *.swp
+  .vscode
+  .cache
+  
+  dist
+
+.gitignore
+node_modules
